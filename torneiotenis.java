@@ -41,7 +41,7 @@ System.out.println(" Você foi escalado para o Grupo 2");
 else if (primeiro == 'v' || segundo == 'v'){
 System.out.println(" Você foi escalado para o Grupo 3");
 }else {
-System.out.println("-1");
+System.out.println("Você não continuara com os treinamentos");
 }
 System.out.println("-------O programa foi finalizado------");
 sc.close();
